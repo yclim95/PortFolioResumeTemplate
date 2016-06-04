@@ -20,3 +20,6 @@
 9. Alerts 
 10. Footer 
 11. Responsive Media Queries 
+
+## Software used: 
+1. [Scout](https://mhs.github.io/scout-app/) 
