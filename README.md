@@ -26,6 +26,9 @@
 
 ## Preview 
 **Desktop View**
+
 ![Desktop view](https://github.com/yclim95/PortFolioResumeTemplate/blob/master/img/desktopPreview.png)
+
 **Mobile View**
+
 ![Mobile View](https://github.com/yclim95/PortFolioResumeTemplate/blob/master/img/mobilePreview.png)
