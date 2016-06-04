@@ -23,3 +23,7 @@
 
 ## Software used: 
 1. [Scout](https://mhs.github.io/scout-app/) 
+
+## Preview 
+![Desktop view](https://github.com/yclim95/PortFolioResumeTemplate/blob/master/img/desktopPreview.png)
+![Mobile View](https://github.com/yclim95/PortFolioResumeTemplate/blob/master/img/mobilePreview.png)
