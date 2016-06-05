@@ -1,5 +1,8 @@
 # Portfolio Resume Web Template 
 
+## Preview Web
+[Click Here](http://yc-resumetemplate.bitballoon.com/)
+
 ## Programming/Markup Languages used: 
 1. HTML 
 2. CSS 
@@ -23,12 +26,3 @@
 
 ## Software used: 
 1. [Scout](https://mhs.github.io/scout-app/) 
-
-## Preview 
-**Desktop View**
-
-![Desktop view](https://github.com/yclim95/PortFolioResumeTemplate/blob/master/img/desktopPreview.png)
-
-**Mobile View**
-
-![Mobile View](https://github.com/yclim95/PortFolioResumeTemplate/blob/master/img/mobilePreview.png)
