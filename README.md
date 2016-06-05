@@ -1,7 +1,7 @@
 # Portfolio Resume Web Template 
 
 ## Preview Web
-[Click Here](http://yc-resumetemplate.bitballoon.com/)
+**Deployed** [**Here**](http://yc-resumetemplate.bitballoon.com/)
 
 ## Programming/Markup Languages used: 
 1. HTML 
