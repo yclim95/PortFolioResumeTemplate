@@ -1,7 +1,7 @@
 # Portfolio Resume Web Template 
 
-## Preview Web
-**Deployed** [**Here**](http://yc-resumetemplate.bitballoon.com/)
+## Live Preview
+Deployed [**Here**](http://yc-resumetemplate.bitballoon.com/)
 
 ## Programming/Markup Languages used: 
 1. HTML 
@@ -26,3 +26,11 @@
 
 ## Software used: 
 1. [Scout](https://mhs.github.io/scout-app/) 
+
+## Preview
+**Web Preview**
+![Web Preview]()
+
+**Mobile Preview
+
+![Mobile Preview]()
