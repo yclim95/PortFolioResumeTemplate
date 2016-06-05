@@ -31,6 +31,6 @@ Deployed [**Here**](http://yc-resumetemplate.bitballoon.com/)
 **Web Preview**
 ![Web Preview](https://github.com/yclim95/PortFolioResumeTemplate/blob/master/img/webPreview.png)
 
-**Mobile Preview
+**Mobile Preview**
 
 ![Mobile Preview](https://github.com/yclim95/PortFolioResumeTemplate/blob/master/img/mobilePreview.png)
